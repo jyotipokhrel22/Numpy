@@ -1,4 +1,4 @@
-# Mathematical operations on an numpy array
+# Mathematical operations on an numpy array:
 
 import numpy as np
 
